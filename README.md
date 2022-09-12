@@ -1,4 +1,4 @@
-# Olá eu sou a Dayane Barbosa,
+# Olá! Eu sou a Dayane Barbosa,
 
 * Sou de Minas Gerais, Brasil, graduada em Turismo desde  2010 e no momento estou em transição de carreira para área de tecnologia.
 * Em 2021, não estava realizada no Turismo e fui em  busca de desafios  encontrei uma  oportunidade para realizar minha transição de carreira na Trybe, escola na qual faço o curso de  Desenvolvimento Web Full Stack  e onde tenho despertado minha paixão pela profissão. 
