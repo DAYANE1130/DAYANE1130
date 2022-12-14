@@ -9,7 +9,7 @@
 
 ALGUMAS COISAS QUE AMO:
 
-* Amo estar com junto com as pessoas que eu amo.
+* Amo estar junto com as pessoas que eu amo.
 * Adoro meditar, procurar e consumir conteúdos que me ajudem a ir em busca da minha melhor versão.
 * Grande apreciadora de musica não importa o ritmo.
 * Amo fazer pão caseiro e bolo de aniversário , sou Master chef amadora aqui na minha casa.
