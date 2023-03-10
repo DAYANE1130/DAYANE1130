@@ -2,7 +2,7 @@
 
 * Sou de Minas Gerais, Brasil, graduada em Turismo desde  2010 e no momento estou em transição de carreira para área de tecnologia.
 * Em 2021, não estava realizada no Turismo e fui em  busca de desafios  encontrei uma  oportunidade para realizar minha transição de carreira na Trybe, escola na qual faço o curso de  Desenvolvimento Web Full Stack  e onde tenho despertado minha paixão pela profissão. 
-* Se você me perguntar oque me move, eu com certeza direi que é a minha evolução, eu sou muito determinada e persistente. 
+* Se você me perguntar oque me move , com certeza é impactar positivamente a vida das pessoas e evoluir, eu sou muito determinada e persistente. 
 * A jornada dessa transição tem sido desafiadora e muito gratificante. Ao longo dos projetos que realizei consegui aplicar oque aprendi atuando no Turismo e na Trybe com as habilidades comportamentais para desenvolver meus projetos individuais e em grupo, busco sempre analisar onde acertei e falhei em cada projeto, pois isso tem sido essencial  no desenvolvimento do meu processo de aprendizado.
 * Esse é apenas o inicio do meu caminho na programação quero continuar inspirando a mim mesma e também a tantas outras mulheres  que escolheram a tecnologia.
 * Gosto muito dos projetos de Back-end e os desenvolvi utilizando Javascript, Jest, Node.js, Express,SQL, Git e GitHub , Metologias Agéis(Kanban), Slack, gestão do tempo, resiliência,trabalho em equipe, comunicação assertiva, escuta ativa.
