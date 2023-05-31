@@ -1,7 +1,7 @@
 # Olá! Eu sou a Dayane Barbosa,
 
 * Sou de Minas Gerais, Brasil, e sou Desenvolvedora Web Back-End;
-* Minha carreira começou no Turismo , trabalhava vendendo pacotes de viagens, mas chegou em um ponto que parou de fazer sentido emtão em 2021,  fui em  busca de desafios  encontrei uma  oportunidade para realizar minha transição de carreira na Trybe com curso de  Desenvolvimento Web;
+* Minha carreira começou no Turismo , trabalhava vendendo pacotes de viagens, mas chegou em um ponto que parou de fazer sentido então em 2021,  fui em  busca de desafios  e encontrei uma  oportunidade para realizar minha transição de carreira com o  curso de  Desenvolvimento Web da escola Trybe;
 * Se você me perguntar oque me move , com certeza é impactar positivamente a vida das pessoas e evoluir, eu sou muito determinada e persistente e encontrei tudo isso na Tecnologia!
 * A jornada dessa transição tem sido desafiadora e muito gratificante. Ao longo dos projetos que realizei consegui aplicar oque aprendi atuando no Turismo e na Trybe com as habilidades comportamentais para desenvolver meus projetos individuais e em grupo, busco sempre analisar onde acertei e falhei em cada projeto, pois isso tem sido essencial  no desenvolvimento do meu processo de aprendizado.
 * Esse é apenas o inicio do meu caminho na programação quero continuar inspirando a mim mesma e também a tantas outras mulheres  que escolheram a tecnologia.
