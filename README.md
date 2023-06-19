@@ -1,21 +1,12 @@
 # Olá! Eu sou a Dayane Barbosa,
 
-* Sou de Minas Gerais, Brasil, e sou Desenvolvedora Web Back-End;
-* Minha carreira começou no Turismo , trabalhava vendendo pacotes de viagens, mas chegou em um ponto que parou de fazer sentido então em 2021,  fui em  busca de desafios  e encontrei uma  oportunidade para realizar minha transição de carreira com o  curso de  Desenvolvimento Web da escola Trybe;
-* Se você me perguntar oque me move , com certeza é impactar positivamente a vida das pessoas e evoluir, eu sou muito determinada e persistente e encontrei tudo isso na Tecnologia!
-* A jornada dessa transição tem sido desafiadora e muito gratificante. Ao longo dos projetos que realizei consegui aplicar oque aprendi atuando no Turismo e na Trybe com as habilidades comportamentais para desenvolver meus projetos individuais e em grupo, busco sempre analisar onde acertei e falhei em cada projeto, pois isso tem sido essencial  no desenvolvimento do meu processo de aprendizado.
-* Esse é apenas o inicio do meu caminho na programação quero continuar inspirando a mim mesma e também a tantas outras mulheres  que escolheram a tecnologia.
-* Gosto muito dos projetos de Back-end e os desenvolvi utilizando Javascript, Jest, Node.js, Express,SQL, Git e GitHub , Metologias Agéis(Kanban), Slack, gestão do tempo, resiliência,trabalho em equipe, comunicação assertiva, escuta ativa.
-
-ALGUMAS COISAS QUE AMO:
-
-* Amo estar junto com as pessoas que eu amo.
-* Adoro meditar, procurar e consumir conteúdos que me ajudem a ir em busca da minha melhor versão.
-* Grande apreciadora de musica não importa o ritmo.
-* Amo fazer pão caseiro e bolo de aniversário , sou Master chef amadora aqui na minha casa.
-* No meu tempo livre gosto de caminhar, pegar um sol, ter contato com a natureza pra recarregar as energias.
-
-Atualmente estou focada em aprender mais a respeito de back-end e tenho me dedicado ao universo de Node.js, Express e Typescript.  Estou me dedicando também ao universo do POO , mais conhecido como  Programação Orientada a Objetos. Quanto a arquitetura tenho noção dos principios do SOLID, e buscado  a cada dia compreendê-lo ainda mais.
+* Sou de Minas Gerais, Brasil, e sou Desenvolvedora de Software.
+* Comecei minha carreira com formação em Turismo na PUC. Trabalhava vendendo pacotes de viagens, mas chegou um momento em que precisei encerrar esse ciclo e percebi que o que me movia mesmo eram duas coisas: impactar positivamente a vida das pessoas e estar em constante evolução.
+* Enxerguei na Tecnologia o caminho certo para seguir com o que me movia de verdade, e em 2021 fiz minha transição de carreira com formação em Desenvolvimento pela Trybe.
+* A jornada dessa transição foi desafiadora e muito gratificante. Fiz mais de 30 projetos com tecnologias como JavaScript, React e Node.js. Trabalhei durante minha formação em soluções web individuais e em grupos, com o objetivo de desenvolver aplicações com qualidade e boas práticas de programação.
+* Esse é apenas o início do meu caminho na programação. Quero continuar inspirando a mim mesma e também tantas outras mulheres que escolheram a tecnologia.
+* Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
+* Atualmente, estou focada em aprender mais a respeito de back-end e tenho me dedicado ao universo de Node.js, Express e TypeScript. Também estou me dedicando à Programação Orientada a Objetos, Estrutura de Dados e SOLID.
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
