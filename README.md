@@ -6,7 +6,7 @@
 * A jornada dessa transição foi desafiadora e muito gratificante. Fiz mais de 30 projetos com tecnologias como JavaScript, React e Node.js. Trabalhei durante minha formação em soluções web individuais e em grupos, com o objetivo de desenvolver aplicações com qualidade e boas práticas de programação.
 * Esse é apenas o início do meu caminho na programação. Quero continuar inspirando a mim mesma e também tantas outras mulheres que escolheram a tecnologia.
 * Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
-* Atualmente, estou focada em aprender mais a respeito de back-end e tenho me dedicado ao universo de Node.js, Express e TypeScript. Também estou me dedicando à Programação Orientada a Objetos, Estrutura de Dados e SOLID.
+* Atualmente, estou focada em aprender mais a respeito  Node.js, Express e TypeScript, Programação Orientada a Objetos(POO), Estrutura de Dados e SOLID.
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
