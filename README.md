@@ -1,10 +1,13 @@
 # Olá! Eu sou a Dayane Barbosa,
 
-* Sou de Minas Gerais, Brasil, e sou Desenvolvedora de Software.
-* Comecei minha carreira com formação em Turismo na PUC. Trabalhava vendendo pacotes de viagens, mas chegou um momento em que precisei encerrar esse ciclo e percebi que o que me movia mesmo eram duas coisas: impactar positivamente a vida das pessoas e estar em constante evolução.
-* Enxerguei na Tecnologia o caminho certo para seguir com o que me movia de verdade, e em 2021 fiz minha transição de carreira com formação em Desenvolvimento pela Trybe.
-* A jornada dessa transição foi desafiadora e muito gratificante. Fiz mais de 30 projetos com tecnologias como JavaScript, React e Node.js. Trabalhei durante minha formação em soluções web individuais e em grupos, com o objetivo de desenvolver aplicações com qualidade e boas práticas de programação.
-* Esse é apenas o início do meu caminho na programação. Quero continuar inspirando a mim mesma e também tantas outras mulheres que escolheram a tecnologia.
+- Sou  a Dayane Barbosa,  como boa  mineira amo um pão de queijo com café , Desenvolvedora Back-end , apaixonada por tecnologia e por aprender/ aprimorar a  cada dia  uma stack .
+
+- Meu objetivo  como Desenvolvedora Back-end é  desvendar desafios de forma criativa e encontrar soluções inteligentes para problemas além de  impactar positivamente as pessoas através do meu trabalho buscando minha constante evolução.  Desejo ser referência para outras mulheres na Tecnologia.
+
+- Amo aprender e evoluir ,no ultimo semestre já conclui o curso de Produtividade Inteligente da Conquer, Resolução de Problemas do Potência Tech e no momento me dedico ao de AWS ( serviço de computação em nuvem ) pela Dio .
+
+- Formada em Turismo pela Puc -Mg , atuava como consultora de pacotes de viagens.  Resolvi mudar de profissão e me tornar Desenvolvedora. As habilidades que mais usava no Turismo como  comunicação, escuta ativa  e trabalho em equipe foram  valiosas aqui na Tecnologia , pois me  ajudam a performar melhor em projetos em equipe, ter mais assertividade para tirar uma dúvida ,dar/receber um feedback sobre um código, etc.
+
 * Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
 * Atualmente, estou focada em aprender mais a respeito  Node.js, Express e TypeScript, Programação Orientada a Objetos(POO), Estrutura de Dados e SOLID.
 
