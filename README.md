@@ -1,6 +1,6 @@
 # Olá! Eu sou a Dayane Barbosa,
 
-- Sou  a Dayane Barbosa,  como boa  mineira amo um pão de queijo com café , Desenvolvedora Back-end , apaixonada por tecnologia e por aprender/ aprimorar a  cada dia  uma stack .
+- Sou Desenvolvedora Back-end e como boa  mineira amo um pão de queijo com café, apaixonada por tecnologia e por aprender/ aprimorar a  cada dia  uma stack .
 
 - Meu objetivo  como Desenvolvedora Back-end é  desvendar desafios de forma criativa e encontrar soluções inteligentes para problemas além de  impactar positivamente as pessoas através do meu trabalho buscando minha constante evolução.  Desejo ser referência para outras mulheres na Tecnologia.
 
