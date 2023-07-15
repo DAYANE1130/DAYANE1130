@@ -22,7 +22,7 @@
 Linguagens e Ferramentas:
 </h2> 
 <h3>
-Javascript | Node.js | Express| Typescript | SQL |Git | GitHub | Metologias Agéis
+Javascript | Node.js | Express| Typescript | SQL | MySQL | Git | GitHub | Metologias Agéis
 </h3>
   <h3>
 Meu e-mail: dayanebmartins@gmail.com 
