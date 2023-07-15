@@ -8,8 +8,9 @@
 
 - Formada em Turismo pela Puc -Mg , atuava como consultora de pacotes de viagens.  Resolvi mudar de profissão e me tornar Desenvolvedora. As habilidades que mais usava no Turismo como  comunicação, escuta ativa  e trabalho em equipe foram  valiosas aqui na Tecnologia , pois me  ajudam a performar melhor em projetos em equipe, ter mais assertividade para tirar uma dúvida ,dar/receber um feedback sobre um código, etc.
 
-* Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
-* Atualmente, estou focada em aprender mais a respeito  Node.js, Express e TypeScript, Programação Orientada a Objetos(POO), Estrutura de Dados e SOLID.
+* Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript,Typescript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
+
+* Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
