@@ -4,7 +4,7 @@
 
 - Comecei minha carreira no Turismo sou formada pela Puc -Mg , atuava como consultora de pacotes de viagens, mas decidi fazer minha transição de carreira e fazer o que realmente me move e agora meu objetivo  como Desenvolvedora Back-end é  desvendar desafios de forma criativa e encontrar soluções inteligentes para problemas além de  impactar positivamente as pessoas através do meu trabalho buscando minha constante evolução.  Desejo ser referência para outras mulheres na Tecnologia.
 
-- Amo aprender e evoluir ,no ultimo semestre já conclui o curso de Produtividade Inteligente da Conquer, Resolução de Problemas do Potência Tech e no momento me dedico ao de AWS ( serviço de computação em nuvem ) pela Dio .
+- Amo aprender e evoluir ,no ultimo semestre já conclui o curso de Produtividade Inteligente da Conquer, Resolução de Problemas do Potência Tech e no momento me dedico ao de AWS ( serviço de computação em nuvem ) pela Escola da Nuvem.
 
 * Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript,Typescript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
 
