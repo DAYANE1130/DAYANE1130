@@ -1,10 +1,10 @@
 # Olá! Eu sou a Dayane Barbosa,
 
-- Sou Desenvolvedora Back-end e como boa  mineira amo um pão de queijo com café, apaixonada por tecnologia e por aprender/ aprimorar a  cada dia  uma stack .
-
-- Comecei minha carreira no Turismo sou formada pela Puc -Mg , atuava como consultora de pacotes de viagens, mas decidi fazer minha transição de carreira e fazer o que realmente me move e agora meu objetivo  como Desenvolvedora Back-end é  desvendar desafios de forma criativa e encontrar soluções inteligentes para problemas além de  impactar positivamente as pessoas através do meu trabalho buscando minha constante evolução.  Desejo ser referência para outras mulheres na Tecnologia.
-
-- Amo aprender e evoluir ,no ultimo semestre já conclui o curso de Produtividade Inteligente da Conquer, Resolução de Problemas do Potência Tech e no momento me dedico ao de AWS ( serviço de computação em nuvem ) pela Escola da Nuvem.
+- Sou Desenvolvedora Back-end, mineira, apaixonada por tecnologia e por aprender e aprimorar a  cada dia  uma stack .
+- Comecei minha carreira no Turismo sou formada pela Puc -Mg , atuava como consultora de pacotes de viagens,
+- Como Desenvolvedora Back-end amo desvendar desafios de forma criativa e encontrar soluções inteligentes para problemas além de  impactar positivamente as pessoas através do meu trabalho.
+- Desejo ser referência para outras mulheres na Tecnologia.
+- Amo aprender e evoluir ,no ultimo semestre já conclui o curso de Produtividade Inteligente da Conquer, Resolução de Problemas do Potência Tech e AWS re/start  pela Escola da Nuvem.
 
 * Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript,Typescript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
 
