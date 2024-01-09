@@ -6,7 +6,7 @@
 - Desejo ser referência para outras mulheres na Tecnologia.
 - Amo aprender e evoluir ,no ultimo semestre já conclui o curso de Produtividade Inteligente da Conquer, Resolução de Problemas do Potência Tech e AWS re/start  pela Escola da Nuvem.
 
-* Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript,Typescript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack, gestão do tempo, resiliência, trabalho em equipe, comunicação assertiva e escuta ativa.
+* Gosto muito dos projetos de Back-end e os desenvolvi utilizando JavaScript,Typescript, Jest, Node.js, Express, SQL, Git e GitHub, Metodologias Ágeis (Kanban), Slack.
 
 * Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
 
