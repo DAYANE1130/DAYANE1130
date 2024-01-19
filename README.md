@@ -1,4 +1,4 @@
-# Olá! Eu sou a Dayane Barbosa,
+# Olá! Eu sou Dayane Barbosa,
 
 - Sou Desenvolvedora Back-end, mineira, apaixonada por tecnologia e por aprender e aprimorar a  cada dia  uma stack .
 - Comecei minha carreira no Turismo sou formada pela Puc -Mg , atuava como consultora de pacotes de viagens,
