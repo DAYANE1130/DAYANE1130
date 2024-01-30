@@ -3,7 +3,8 @@
 * Sou mineira apaixonada por programação e por pão de queijo. Encantada com o universo Full Stack, bugs e resolver problemas e quanto mais eu exploro esse mundo mais eu amo.
 
 * Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
-* <div class="tenor-gif-embed" data-postid="17855444" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444">Happy Programmer Happy Coder GIF</a>from <a href="https://tenor.com/search/happy+programmer-gifs">Happy Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+ <div class="tenor-gif-embed" data-postid="17855444" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444">Happy Programmer Happy Coder GIF</a>from <a href="https://tenor.com/search/happy+programmer-gifs">Happy Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
