@@ -5,7 +5,7 @@
 * Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
 
 
-https://tenor.com/pt-BR/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444
+![Texto alternativo](https://tenor.com/pt-BR/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444)
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
