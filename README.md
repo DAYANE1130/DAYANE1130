@@ -1,6 +1,6 @@
 # Olá! Eu sou Dayane Barbosa,
 
-* Gosto muito de projetos Front end e Back end  e os desenvolvi utilizando JavaScript,Typescript, Node.js, Express, SQL, MongoDB,Laravel, Git e GitHub, Metodologias Ágeis (Kanban) e Slack.
+* Gosto muito de projetos Front end e Back end  e os desenvolvi utilizando JavaScript,Typescript, Node.js, Express, SQL, MongoDB,Laravel, React, Git e GitHub, Metodologias Ágeis (Kanban) e Slack.
 
 * Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
 
