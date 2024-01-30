@@ -4,8 +4,9 @@
 
 * Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
 
-
-![Texto alternativo](https://tenor.com/pt-BR/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444)
+<div align="center">
+  <img src="https://tenor.com/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444">
+</div>
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
@@ -22,4 +23,3 @@ JavaScript | Node.js | Express | ORM-Sequelize | TypeScript | Padrão de design 
 <div> 
   <a href="https://www.linkedin.com/in/barbosa-dayane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
