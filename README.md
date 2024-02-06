@@ -1,12 +1,28 @@
-# Olá! Eu sou Dayane Barbosa,
+# Olá! 👋 Sou Dayane Barbosa!
 
-* Sou mineira apaixonada por programação e por pão de queijo. Encantada com o universo Full Stack, bugs e resolver problemas e quanto mais eu exploro esse mundo mais eu amo.
+Sou mineira apaixonada por programação e por pão de queijo. Encantada com o universo Full Stack, bugs e resolver problemas e quanto mais eu exploro esse mundo mais eu amo.
 
-* Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID.
+## Habilidades Técnicas 💻
 
-<div align="center">
-  <img src="https://tenor.com/view/happy-programmer-happy-coder-coding-programming-happy-gif-17855444">
-</div>
+Tenho experiência em uma ampla gama de tecnologias, incluindo:
+
+- **Linguagens de Programação**: JavaScript, TypeScript, Python
+- **Frameworks e Bibliotecas**: Node.js, Express, React, Laravel
+- **Banco de Dados**: SQL, NoSQL, ORM-Sequelize
+- **Padrões de Design**: MVC
+- **APIs**: RESTful APIs, Postman, Swagger
+- **DevOps**: Docker, AWS
+- **Controle de Versão**: Git, Github
+- **Testes**: Jest
+- **Sistemas Operacionais**: Linux - Ubuntu
+
+## Experiência com Metodologias Ágeis 🏃‍♀️
+
+Tenho experiência trabalhando em ambientes ágeis, utilizando metodologias Kanban e Scrum para gerenciar e planejar projetos.
+
+## Interesses 🚀
+
+Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID. Estou sempre procurando aprender e crescer como desenvolvedora.
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
@@ -15,8 +31,6 @@
   </a>
 </div>
 
-## Linguagens e Ferramentas:
-JavaScript | Node.js | Express | ORM-Sequelize | TypeScript | Padrão de design MVC | API RESTful | SQL | NoSQL | Docker | Jest |Git | Github | Swagger | Postman | AWS | React | Python | Laravel | Linux -Ubuntu | Kanban | Scrum.
 
 ### Meu e-mail: dayanebmartins@gmail.com 
 
