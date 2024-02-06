@@ -18,11 +18,12 @@ Tenho experiência em uma ampla gama de tecnologias, incluindo:
 
 ## Experiência com Metodologias Ágeis 🏃‍♀️
 
-Tenho experiência trabalhando em ambientes ágeis, utilizando metodologias Kanban e Scrum para gerenciar e planejar projetos.
+- Tenho experiência trabalhando em ambientes ágeis, utilizando metodologias **Kanban** e **Scrum** para gerenciar e planejar projetos.
 
 ## Interesses 🚀
 
-Atualmente, estou focada em aprender mais a respeito de AWS, Estrutura de Dados e SOLID. Estou sempre procurando aprender e crescer como desenvolvedora.
+- Atualmente, estou estudando para certificação AWS, Estrutura de Dados , SOLID e Docker.
+- Minhas leituras do momento são: "Entendendo Algoritmos" do Aditya Y. Bhargava e "Conversas Corajosas" da Elisama Santos.
 
 <div align="center">
   <a href="https://github.com/DAYANE1130">
