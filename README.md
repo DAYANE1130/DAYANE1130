@@ -25,6 +25,8 @@ Tenho experiência em uma ampla gama de tecnologias, incluindo:
 - Atualmente, estou estudando para certificação AWS, Estrutura de Dados , SOLID e Docker.
 - Minhas leituras do momento são: "Entendendo Algoritmos" do Aditya Y. Bhargava e "Conversas Corajosas" da Elisama Santos.
 
+
+
 <div align="center">
   <a href="https://github.com/DAYANE1130">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayane1130&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
