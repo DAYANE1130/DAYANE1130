@@ -7,8 +7,8 @@ Sou mineira apaixonada por programação e por pão de queijo. Encantada com o u
 Tenho experiência em uma ampla gama de tecnologias, incluindo:
 
 - **Linguagens de Programação**: JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas**: Node.js, Express, React, Laravel
-- **Banco de Dados**: SQL, NoSQL, ORM-Sequelize
+- **Frameworks e Bibliotecas**: Node.js, Express, React, Laravel,ORM-Sequelize
+- **Banco de Dados**: SQL, NoSQL(MongoDB)
 - **Padrões de Design**: MVC
 - **APIs**: RESTful APIs, Postman, Swagger
 - **DevOps**: Docker, AWS
