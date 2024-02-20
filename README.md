@@ -2,7 +2,10 @@
 
 Sou mineira apaixonada por programação e por pão de queijo. Encantada com o universo Full Stack, bugs e resolver problemas e quanto mais eu exploro esse mundo mais eu amo.
 
-## Atualmene estou trabalhando no Project Pet Shop  link do repositório: https://github.com/DAYANE1130/project_pet_shop
+## Atualmente estou trabalhando 
+
+Projeto : Project Pet Shop  
+Link do repositório: https://github.com/DAYANE1130/project_pet_shop
 
 ## Habilidades Técnicas 💻
 
