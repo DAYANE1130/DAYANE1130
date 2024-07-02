@@ -12,7 +12,7 @@ Link do repositório: https://github.com/DAYANE1130/project_pet_shop
 Tenho experiência em uma ampla gama de tecnologias, incluindo:
 
 - **Linguagens de Programação**: JavaScript, TypeScript, Python, PHP
-- **Frameworks e Bibliotecas**: Node.js, Express,Adonis, React, Laravel,ORM(Sequelize, Lucid, Eloquent)
+- **Frameworks e Bibliotecas**: Node.js, Express, Adonis, React, Laravel, ORM(Sequelize, Lucid, Eloquent)
 - **Banco de Dados**: SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
 - **Padrões de Design**: MSC
 - **APIs**: RESTful APIs, Postman, Swagger
