@@ -11,19 +11,19 @@ Link do repositório: https://github.com/DAYANE1130/project_pet_shop
 
 Tenho experiência em uma ampla gama de tecnologias, incluindo:
 
-- **Linguagens de Programação**: JavaScript, TypeScript, Python
-- **Frameworks e Bibliotecas**: Node.js, Express, React, Laravel,ORM-Sequelize
-- **Banco de Dados**: SQL, NoSQL(MongoDB)
-- **Padrões de Design**: MVC
+- **Linguagens de Programação**: JavaScript, TypeScript, Python, PHP
+- **Frameworks e Bibliotecas**: Node.js, Express,Adonis, React, Laravel,ORM(Sequelize, Lucid, Eloquent)
+- **Banco de Dados**: SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
+- **Padrões de Design**: MSC
 - **APIs**: RESTful APIs, Postman, Swagger
 - **DevOps**: Docker, AWS
 - **Controle de Versão**: Git, Github
-- **Testes**: Jest
+- **Testes**: Testes unitários, Testes de Integração
 - **Sistemas Operacionais**: Linux - Ubuntu
 
 ## Experiência com Metodologias Ágeis 🏃‍♀️
 
-- Tenho experiência trabalhando em ambientes ágeis, utilizando metodologias **Kanban** e **Scrum** para gerenciar e planejar projetos.
+- Tenho experiência  em ambientes ágeis, utilizando metodologias **Kanban** e **Scrum** para gerenciar e planejar projetos.
 
 ## Interesses 🚀
 
