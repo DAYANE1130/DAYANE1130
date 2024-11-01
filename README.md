@@ -2,7 +2,7 @@
 
 Sou mineira e apaixonada por tecnologia. Encantada com o universo Full Stack, bugs e resolver problemas e quanto mais eu exploro esse mundo mais eu amo.
 
-## Atualmente estou trabalhando 
+## Atualmente estou desenvolvendo esse projeto pessoal: 
 
 Projeto : Project Pet Shop  
 Link do repositório: https://github.com/DAYANE1130/project_pet_shop
@@ -12,7 +12,7 @@ Link do repositório: https://github.com/DAYANE1130/project_pet_shop
 Tenho experiência em uma ampla gama de tecnologias, incluindo:
 
 - **Linguagens de Programação**: JavaScript, TypeScript, Python, PHP
-- **Frameworks e Bibliotecas**: Node.js, Express, Adonis, React, Laravel, ORM(Sequelize, Lucid, Eloquent)
+- **Frameworks e Bibliotecas**: Node.js, Express, Adonis, React, Laravel, ORM(Sequelize, Lucid, Eloquent), Integração de Apis
 - **Banco de Dados**: SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
 - **Padrões de Design**: MSC
 - **APIs**: RESTful APIs, Postman, Swagger
