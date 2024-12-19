@@ -4,8 +4,8 @@ Sou mineira e apaixonada por tecnologia. Encantada com o universo Full Stack, bu
 
 ## Atualmente estou desenvolvendo esse projeto pessoal: 
 
-Projeto : Project Pet Shop  
-Link do repositório: https://github.com/DAYANE1130/project_pet_shop
+Projeto : Project Water and Gas Manager
+Link do repositório: https://github.com/DAYANE1130/water_and_gas_manager
 
 ## Habilidades Técnicas 💻
 
